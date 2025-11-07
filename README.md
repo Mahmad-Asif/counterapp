@@ -12,3 +12,4 @@ This mini-project demonstrates how small interactions like increment, reset, and
 - ⚡ Fast, lightweight, and beginner-friendly  
 - 🧩 Built with Flexbox and Media Queries
 
+![Responsive Counter App Preview](https://github.com/Mahmad-Asif/counterapp/blob/665ad65ccba11875235bf10566f81fc9957bc189/image.png)
